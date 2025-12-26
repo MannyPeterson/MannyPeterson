@@ -1,0 +1,21 @@
+background: #000040
+foreground: #d7d6d2
+cursorColor: #d7d6d2
+colorBD: #ffffff
+
+color0: #000040
+color1: #d75f5f
+color2: #87af5f
+color3: #d7af5f
+color4: #5f87d7
+color5: #af5faf
+color6: #5fafaf
+color7: #d7d6d2
+color8: #4a4a6a
+color9: #ff8787
+color10: #afdf87
+color11: #dfdf87
+color12: #87afff
+color13: #df87df
+color14: #87dfdf
+color15: #ffffff
