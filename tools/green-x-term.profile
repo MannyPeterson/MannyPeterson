@@ -1,0 +1,21 @@
+background: #0a0a0a
+foreground: #00ff00
+cursorColor: #00ff00
+colorBD: #00ff00
+
+color0: #0a0a0a
+color1: #00aa00
+color2: #00ff00
+color3: #00dd00
+color4: #00aa00
+color5: #00bb00
+color6: #00cc00
+color7: #00dd00
+color8: #1a1a1a
+color9: #00dd00
+color10: #00ff00
+color11: #00ff00
+color12: #00cc00
+color13: #00dd00
+color14: #00ee00
+color15: #00ff00
