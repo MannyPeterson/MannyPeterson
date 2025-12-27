@@ -28,7 +28,7 @@ int main(void)
 }
 ^D
 
-$ gcc -std=c90 -O2 -Wall -Wextra -pedantic manny.c -o manny
+$ cc -std=c90 -O2 -Wall -Wextra -pedantic manny.c -o manny
 
 $ ./manny
 !Greetings and welcome to my GitHub profile. My name is Manny, I am a
